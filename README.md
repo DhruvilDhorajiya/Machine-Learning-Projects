@@ -6,3 +6,5 @@
 
 3)Loan Status Prediction :- Support Vector Machine
 
+4)Wine Quality Prediction:- Random forest classifier
+
