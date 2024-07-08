@@ -8,3 +8,8 @@
 
 4)Wine Quality Prediction:- Random forest classifier
 
+5)Gold Price prediction: Random Forest Regressor
+
+6)Heart Disease Prediction: LogisticRegression
+
+
