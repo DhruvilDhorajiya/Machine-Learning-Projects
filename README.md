@@ -12,4 +12,8 @@
 
 6)Heart Disease Prediction: LogisticRegression
 
+7)Credit Card Fraud Detection: LogisticRegression
+
+8)Medical Insurance Cost Prediction: LinearRegression
+
 
