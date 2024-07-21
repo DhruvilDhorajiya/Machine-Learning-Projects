@@ -16,4 +16,6 @@
 
 8)Medical Insurance Cost Prediction: LinearRegression
 
+9)Movie Recommendation System: Recommendanting movies based on users preferance
+
 
